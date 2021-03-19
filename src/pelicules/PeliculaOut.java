@@ -24,8 +24,7 @@ public class PeliculaOut {
             System.out.println(e);
         }
     }  
-
-    
+   
     
     public void escriurePelicula(Pelicula p) {
         try { 
